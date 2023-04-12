@@ -3,5 +3,5 @@
 This repo contains my codewars solutions.
 
 
-My Profile: 
+My profile: 
 https://www.codewars.com/users/Dallair220
