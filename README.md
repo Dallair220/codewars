@@ -2,6 +2,6 @@
 
 This repo contains my codewars solutions.
 
-# my profile
 
+My Profile: 
 https://www.codewars.com/users/Dallair220
